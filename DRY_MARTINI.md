@@ -2,7 +2,9 @@
 
 > Classics... 
 
-![](.assets/img/dry-martini.jpg)
+<div align=>
+	<img align="center" width="150px" src="/assets/img/dry-martini.jpg">
+</div> 
 
 ## Considerations
 
