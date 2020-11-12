@@ -3,7 +3,7 @@
 > Classics... 
 
 <div align=>
-	<img align="center" width="150px" src="/assets/img/dry-martini.jpg">
+	<img align="center" width="600px" src="/assets/img/dry-martini.jpg">
 </div> 
 
 ## Considerations
