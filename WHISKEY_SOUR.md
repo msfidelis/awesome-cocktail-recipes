@@ -1,4 +1,4 @@
-# Red Collins
+# Whiskey Sour
 
 > Description... 
 
