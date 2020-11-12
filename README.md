@@ -11,7 +11,8 @@
   - [Red Collins](/RED_COLLINS.md)
   - [Negroni Classic](/NEGRONI_CLASSIC.md)
   - [Boulevardier](/BOULEVARDIER.md)
-  - [Old Fashioned](/OLD_FASHIONED.md)           
+  - [Old Fashioned](/OLD_FASHIONED.md)    
+  - [Whiskey Sour](/WHISKEY_SOUR.md)            
 
 ### Gin Drinks  
   - [Dry Martini](/DRY_MARTINI.md)
@@ -22,6 +23,7 @@
 ### Whiskey Drinks 
   - [Boulevardier](/BOULEVARDIER.md)    
   - [Old Fashioned](/OLD_FASHIONED.md)      
+  - [Whiskey Sour](/WHISKEY_SOUR.md)   
 
 ### Classics 
   - [Dry Martini](/DRY_MARTINI.md)  
