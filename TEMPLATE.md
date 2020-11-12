@@ -1,13 +1,19 @@
-# Cocktail Name 
+# Red Collins
 
-![Pic](/assets/img/TEMPLATE.md)
+> Description... 
 
-> An observation or description 
+<div align=>
+	<img align="center" width="600px" src="/assets/img/dry-martini.jpg">
+</div> 
 
 ## Considerations
 
-* This recipe is based on Whiskey Sours Drinks
+* Shaken Drink
 
-## Ingredients 
+## Ingredients
 
-## HOW TO
+* 50 ml water
+
+## Decoration
+
+* dragon
