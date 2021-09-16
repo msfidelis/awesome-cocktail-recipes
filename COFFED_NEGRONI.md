@@ -1,4 +1,4 @@
-# Negroni Classic
+# Coffed Negroni
 
 > My favorite drink in the world
 
