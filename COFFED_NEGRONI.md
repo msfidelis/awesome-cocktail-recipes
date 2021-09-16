@@ -11,6 +11,7 @@
 * Stirred Drink
 * Big ice cube
 * Orange Oleo
+* Aeropress or Hario
 
 ## Ingredients
 
